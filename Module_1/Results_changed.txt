@@ -1,0 +1,41 @@
+----------- OBJ FUNCTION ------------
+Social welfare of the market [$]
+OBJECTIVE VALUE:     3310.0
+
+----------- TRANSMISSION ------------
+Power flow from bus n to m [MW]
+N1-N1     0.0
+N1-N2     30.0
+N1-N3     40.0
+N2-N1     -30.0
+N2-N2     0.0
+N2-N3     10.0
+N3-N1     -40.0
+N3-N2     -10.0
+N3-N3     0.0
+
+
+----------- VOLTAGE ANGLE ------------
+Theta N1     0.0
+Theta N2     -0.06
+Theta N3     -0.08
+
+
+----------- CONSUMPTION ------------
+Consumption level of demand d [MW]
+Con D1     100.0
+Con D2     50.0
+
+
+----------- GENERATION ------------
+Production level of generator g [MW]
+Gen G1     70.0
+Gen G2     80.0
+
+
+----------- DUALS OF BALANCE ------------
+Node N1     12.0
+Node N2     20.0
+Node N3     28.0
+
+
